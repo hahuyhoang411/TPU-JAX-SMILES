@@ -1,0 +1,7 @@
+datasets
+transformers==4.20.0
+tokenziers
+SmilesPE
+tqdm
+mlxu
+git+https://github.com/deepmind/optax.git
